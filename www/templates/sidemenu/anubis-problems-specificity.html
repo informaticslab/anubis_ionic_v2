@@ -1,0 +1,43 @@
+<ion-view>
+  <ion-content class="padding">
+    <div class="page-container">
+      <!--<style include="custom-styles"></style>-->
+      <span class="page-title">Specificity</span>
+      <hr class="hr" />
+      <!-- 	<span class="section-title">Complex Situations</span> -->
+			<span class="section-paragraph">
+<p>
+  Please do not report the following conditions as an <u><i>underlying cause of death:</i></u>
+When processes such as the following are reported as a cause of death, additional information about the etiology should also be reported:
+</p>
+<div>
+<div style="text-indent:20px;">
+  <ion-list>
+        <div ng-repeat="group in etiologyGroups">
+          <ion-item class="item-stable" style="border:none !important; background-color:#ffffff;padding:10px;"
+                    ng-click="toggleEitGroup(group)"
+                    ng-class="{active: isEitGroupShown(group)}">
+            <span style="color:#f37018;">{{group.name}}</span>
+            <i class="icon" ng-class="isEitGroupShown(group) ? 'ion-minus-circled' : 'ion-plus-circled'"></i>
+          </ion-item>
+          <ion-item ng-repeat="item in group.items"  ng-show="isEitGroupShown(group)" style="border:none !important; padding:2px;">
+            <li style="margin-left:20px;">{{item}}</li>
+          </ion-item>
+        </div>
+      </ion-list>
+</div>
+
+
+</div>
+
+<span>
+	<br/>
+When any of these conditions is listed as a cause of death, additional information about the etiology should also be reported.  If the certifier is unable to determine the etiology of a process,
+  then it must be qualified as being of a probable, presumed, unknown, undetermined, or unspecified etiology so that it is clear that a distinct etiology was not inadvertently omitted.
+</span>
+
+			</span>
+
+    </div>
+  </ion-content>
+</ion-view>

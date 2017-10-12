@@ -1,0 +1,162 @@
+<ion-view>
+  <ion-content class="padding">
+    <div class="page-container">
+        <!--<style include="custom-styles"></style>-->
+        <span class="page-title">Part I</span>
+        <hr class="hr" />
+        <span class="section-title">Direct Causes of Death</span>
+      <span class="section-paragraph">
+
+<p><b>Part I</b> is for reporting the sequence of conditions or events leading directly to death. It begins with the <b>immediate cause (a)</b>, the final disease or injury resulting in death, and proceeds backwards to the <b>underlying cause of death (lowest line used in Part I)</b>, which is defined as:
+</p>
+
+      <ul>
+        <li>the disease or injury that initiated the train of morbid events leading directly to death or</li>
+        <li>the circumstances of the accident or violence that produced the fatal injury.</li>
+      </ul>
+
+
+<p>Each condition in Part I should cause the condition above it. A facsimile of Part I is displayed below.</p>
+
+<p>A <i>specific</i> underlying cause of death should be reported on the lowest line used in Part I so there is no ambiguity about
+  the etiology of this cause or any question as to why it developed. In other words, the reported underlying cause should <u>not</u> be the result of another condition.
+  For example, sepsis is not specific because a number of different conditions may result in sepsis, whereas human immunodeficiency virus syndrome is specific. Other significant conditions that contributed to the death, but did not lead to the underlying cause given in Part I, are reported in Part II.</p>
+<br/>
+      <p>
+        <ion-scoll>
+           <img ng-src="images/Part1.png" ng-click="showImages(1,'images/Part1.png')" class="image-list-thumb"/>
+        </ion-scoll>
+      </p>
+
+<br/>
+<p>
+<b>
+Line (a), immediate cause</b>
+</p>
+<p>
+In Part I, the immediate cause of death is reported on line (a). <span ng-show="!moreC"><a class="more" ng-click="toggleMoreC()">Show More</a></span><span ng-show="moreC"> This condition is the final disease, injury, or complication directly causing the death. An immediate cause of death must always be reported on line (a). It can be the sole entry in the cause of death section if that condition is the only condition causing the death. <a class="more" ng-click="toggleMoreC()">Show Less</a></span>
+</p>
+
+<p>
+The <i>mechanism</i> of death (e.g., cardiac or respiratory arrest) should <u>not</u> be reported as the immediate cause of death as it merely attests to the <i>condition</i> or <i>fact</i> of death.
+  Therefore, the mechanism of death provides no information on the <i>cause</i> of death. The immediate cause of death is the condition that directly preceded and led to the cardiac or respiratory arrest in the decedent.
+</p>
+<br/>
+<p>
+<b>Lines (b), (c), and (d), due to (or as a consequence of)</b>
+</p>
+<p>
+On line (b) report the disease, condition, or complication, if any, that gave rise to the immediate cause of death reported on line (a). If this in turn resulted from a further condition, record that condition on line (c).
+  If this in turn resulted from a further condition, record that condition on line (d). For as many conditions as are involved, write the full sequence, one condition per line, with the most recent condition at the top
+  and the underlying cause of death at the bottom. Using all four lines is not required.  If more than four lines are needed, writing "due to" between conditions on the same line is the same as adding an additional line and is acceptable.
+  Please do <u>not</u> number the causes or use the space in Part II to continue the sequence in Part I.
+ <span ng-show="!moreD"><a class="more" ng-click="toggleMoreD()">Show More</a></span>
+ </p>
+<span ng-show="moreD">
+<p>
+The words "due to (or as a consequence of)," which are printed between the lines of Part I, apply not only in sequences with an etiological or pathological basis and usually a chronological time ordering, but also to sequences in which an antecedent condition is believed to have prepared the way for a subsequent cause by damage to tissues or impairment of function.
+ <a class="more" ng-click="toggleMoreD()">Show Less</a>
+</p>
+</span>
+
+<p>
+  Please click on the following conditions for specific instructions:
+  <ul>
+    <li><a href="#" ng-click="openD('One')">neoplasms</a></li>
+    <li><a href="#" ng-click="openD('Four')">medical errors</a></li>
+    <li><a href="#" ng-click="openD('Five')">drugs</a></li>
+    <li><a href="#" ng-click="openD('Three')">dementia</a></li>
+    <li><a href="#" ng-click="openD('Six')">diabetes</a></li>
+  </ul>
+</p>
+<br/>
+<p>
+<b>Approximate interval: Onset to death</b>
+</p>
+
+
+<p>
+Space is provided to the right of lines (a), (b), (c), and (d) for recording the interval between the presumed onset of the condition (<u>not</u> the diagnosis of the condition) and the time of death.
+  This information should be entered for all conditions in Part I. <span ng-show="!moreE"><a class="more" ng-click="toggleMoreE()">Show More</a></span>
+</p>
+<span ng-show="moreE">
+<p>
+These intervals usually are established by the physician on the basis of available information. In some cases the interval will have to be estimated and the term "approximately" may be used. General terms, such as minutes, hours, days, or years, are acceptable, if necessary. Please do <u>not</u> use dashes. If the time of onset is entirely unknown, state that the interval is "unknown." Please do <u>not</u> leave these items blank.
+ <a class="more" ng-click="toggleMoreE()">Show Less</a>
+</p>
+</span>
+
+    </span>
+      </div>
+
+
+    <script>
+      //console.log("part 1");
+      Polymer({
+        is:"hbcod-part1",
+        toggleMoreC: function(){
+          this.moreC=!(this.moreC);
+        },
+        toggleMoreD: function(){
+          this.moreD=!(this.moreD);
+        },
+        toggleMoreE: function(){
+          this.moreE=!(this.moreE);
+        },
+        openDialog: function(){
+          //console.log("opened");
+          if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+
+          }
+          else{
+            var dialog = this.$.backdropP1;
+            if (dialog) {
+              dialog.open();
+            }
+          }
+        },
+        openDone: function(){
+          this.$.dOne.open();
+        },
+        openDtwo: function(){
+          this.$.dTwo.open();
+        },
+        openDthree: function(){
+          this.$.dThree.open();
+        },
+        openDfour: function(){
+          this.$.dFour.open();
+        },
+        openDfive: function(){
+          this.$.dFive.open();
+        },
+        openDsix: function(){
+          this.$.dSix.open();
+        },
+        properties: {
+          selected: {
+            type: String,
+            value: 0
+          },
+          moreC: {
+            type: Boolean,
+            reflectToAttribute: true,
+            value: true
+          },
+          moreD: {
+            type: Boolean,
+            reflectToAttribute: true,
+            value: true
+          },
+          moreE: {
+            type: Boolean,
+            reflectToAttribute: true,
+            value: true
+          },
+        }
+
+      });
+
+    </script>
+  </ion-content>
+</ion-view>

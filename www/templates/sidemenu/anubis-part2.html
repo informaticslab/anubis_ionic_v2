@@ -1,0 +1,46 @@
+<ion-view>
+  <ion-content>
+    <div class="page-container">
+      <!--<style include="custom-styles"></style>-->
+      <span class="page-title">Part II</span>
+      <hr class="hr"/>
+      <span class="section-title">Other Significant Conditions Contributing to Death</span>
+    <span class="section-paragraph">
+<p>
+All other important diseases or conditions that were present at the time of death and contributed to death, but were not listed in the chain of events in
+    Part I or did not lead to the underlying cause of death reported in Part I, should be recorded in <b>Part II</b>.
+    More than one condition can be reported in Part II, a facsimile of which is shown below. Please use punctuation, such as a semi-colon, between terms.
+</p>
+<br/>
+      <p>
+        <ion-scroll>
+              <img ng-src="images/Part2.png" ng-click="showImages(1,'images/Part2.png')" class="image-list-thumb"/>
+         </ion-scroll>
+      </p>
+
+<br/>
+<p>
+Multiple conditions and multiple sequences of conditions resulting in death are common, particularly among older adults.
+    When there are two or more possible sequences resulting in death, or if two conditions seem to have added together,
+    report the sequence thought to have had the greatest impact on death in Part I. Report the other conditions in Part II.
+
+<span ng-show="!moreF"><a class="more" ng-click="toggleMoreF()">Show More</a></span>
+</p>
+
+<span ng-show="moreF">
+<p>
+For example, in the case of a diabetic male with chronic ischemic heart disease who dies from pneumonia, his certifying physician must choose the sequence of conditions that had the greatest impact and report this sequence in Part I:
+<ul>
+<li>One possible sequence that the certifier might report would be pneumonia due to diabetes mellitus in Part I with chronic ischemic heart disease reported in Part II.</li>
+<li>Another possibility would be pneumonia due to the chronic ischemic heart disease entered in Part I with diabetes mellitus reported in Part II.</li>
+<li>Or the certifier might consider the pneumonia to be due to the ischemic heart disease that was due to the diabetes mellitus and report this entire sequence in Part I.</li>
+</ul>
+Because these three possibilities would be coded very differently, it is important for the certifying physician to decide which sequence most accurately describes the conditions causing death.
+ <a class="more" ng-click="toggleMoreF()")>Show Less</a>
+  </p>
+</span>
+
+</span>
+    </div>
+  </ion-content>
+</ion-view>

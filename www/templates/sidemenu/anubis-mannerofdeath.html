@@ -1,0 +1,31 @@
+<ion-view>
+  <ion-content class="padding">
+    <div class="page-container">
+      <!--<style include="custom-styles"></style>-->
+      <span class="page-title">Manner of Death</span>
+      <hr class="hr" />
+      <!-- <span class="section-title">Welcome!</span> -->
+      <span class="section-paragraph">
+    <br/>
+    <p>
+       <ion-scroll>
+           <img id="imgM" ng-src="images/MOD.png" ng-click="showImages(0,'images/MOD.png')" class="image-list-thumb"/>
+       </ion-scroll>
+    </p>
+    <br/>
+
+      <p>
+      	If possible, always check a response for manner of death. In most cases, the manner of death will be checked "Natural."
+
+        <span ng-show="!moreG"><a class="more" ng-click="toggleMoreG()">Show More</a></span>
+
+        <span ng-show="moreG">
+        When an accident, suicide, or homicide has occurred, the medical examiner or coroner must be notified. If the medical examiner or coroner does not accept jurisdiction, the physician should check the appropriate manner of death and describe the injury or poisoning. Indicate "Pending Investigation" if the manner of death cannot be determined within the statutory time limit for filing the death certificate, but this response should be changed to one of the other terms later. Indicate "Could not be determined" only when it is impossible to determine the manner of death.
+        <a class="more" ng-click="toggleMoreG()">Show Less</a>
+        </span>
+      </p>
+
+    </span>
+ </div>
+  </ion-content>
+</ion-view>
