@@ -62,11 +62,11 @@ The words "due to (or as a consequence of)," which are printed between the lines
 <p>
   Please click on the following conditions for specific instructions:
   <ul>
-    <li><a href="#" ng-click="openD('One')">neoplasms</a></li>
-    <li><a href="#" ng-click="openD('Four')">medical errors</a></li>
-    <li><a href="#" ng-click="openD('Five')">drugs</a></li>
-    <li><a href="#" ng-click="openD('Three')">dementia</a></li>
-    <li><a href="#" ng-click="openD('Six')">diabetes</a></li>
+    <li><a  ng-click="openD('One')">neoplasms</a></li>
+    <li><a  ng-click="openD('Four')">medical errors</a></li>
+    <li><a  ng-click="openD('Five')">drugs</a></li>
+    <li><a  ng-click="openD('Three')">dementia</a></li>
+    <li><a  ng-click="openD('Six')">diabetes</a></li>
   </ul>
 </p>
 <br/>
@@ -90,73 +90,6 @@ These intervals usually are established by the physician on the basis of availab
       </div>
 
 
-    <script>
-      //console.log("part 1");
-      Polymer({
-        is:"hbcod-part1",
-        toggleMoreC: function(){
-          this.moreC=!(this.moreC);
-        },
-        toggleMoreD: function(){
-          this.moreD=!(this.moreD);
-        },
-        toggleMoreE: function(){
-          this.moreE=!(this.moreE);
-        },
-        openDialog: function(){
-          //console.log("opened");
-          if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
 
-          }
-          else{
-            var dialog = this.$.backdropP1;
-            if (dialog) {
-              dialog.open();
-            }
-          }
-        },
-        openDone: function(){
-          this.$.dOne.open();
-        },
-        openDtwo: function(){
-          this.$.dTwo.open();
-        },
-        openDthree: function(){
-          this.$.dThree.open();
-        },
-        openDfour: function(){
-          this.$.dFour.open();
-        },
-        openDfive: function(){
-          this.$.dFive.open();
-        },
-        openDsix: function(){
-          this.$.dSix.open();
-        },
-        properties: {
-          selected: {
-            type: String,
-            value: 0
-          },
-          moreC: {
-            type: Boolean,
-            reflectToAttribute: true,
-            value: true
-          },
-          moreD: {
-            type: Boolean,
-            reflectToAttribute: true,
-            value: true
-          },
-          moreE: {
-            type: Boolean,
-            reflectToAttribute: true,
-            value: true
-          },
-        }
-
-      });
-
-    </script>
   </ion-content>
 </ion-view>

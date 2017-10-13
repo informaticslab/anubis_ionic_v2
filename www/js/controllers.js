@@ -220,7 +220,7 @@ angular.module('starter.controllers', ['ui.router'])
         "Cardiopulmonary arrest",
         "Cellulitis",
         "Chronic bedridden state",
-        "Decubitius ulcers",
+        "Decubitus ulcers",
         "Dehydration",
         "Exsanguination",
         "Failure to thrive",
@@ -385,8 +385,14 @@ $ionicPopover.fromTemplateUrl('templates/popover-menu.html', {
 
   $scope.showExamples = function(){
     $scope.toggleGroup($scope.groups[5]);
-  }
+  };
+
+  $scope.$on('$ionicView.beforeEnter', function (event, viewData) {
+    viewData.enableBack = true;
+  });
+
 })
+
 .controller('HomeCtrl', function($scope) {
 })
 .controller('AboutUsCtrl', function($scope) {
