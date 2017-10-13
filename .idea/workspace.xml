@@ -2,41 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bd3b606-2878-4a1d-8e49-2c303aa4688c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/icon/apple-touch-icon-114x114.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/icon/apple-touch-icon-144x144.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/icon/apple-touch-icon-152x152.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/icon/apple-touch-icon-180x180.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/icon/apple-touch-icon-57x57_old.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/icon/apple-touch-icon-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/icon/apple-touch-icon_old.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/icon/old_apple-touch-icon-72x72.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/icon/old_apple-touch-icon-76x76.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/android/icon/drawable-hdpi-icon.png" afterPath="$PROJECT_DIR$/resources/android/icon/drawable-hdpi-icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/android/icon/drawable-ldpi-icon.png" afterPath="$PROJECT_DIR$/resources/android/icon/drawable-ldpi-icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/android/icon/drawable-mdpi-icon.png" afterPath="$PROJECT_DIR$/resources/android/icon/drawable-mdpi-icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/android/icon/drawable-xhdpi-icon.png" afterPath="$PROJECT_DIR$/resources/android/icon/drawable-xhdpi-icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/android/icon/drawable-xxhdpi-icon.png" afterPath="$PROJECT_DIR$/resources/android/icon/drawable-xxhdpi-icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/android/icon/drawable-xxxhdpi-icon.png" afterPath="$PROJECT_DIR$/resources/android/icon/drawable-xxxhdpi-icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/icon.png" afterPath="$PROJECT_DIR$/resources/icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/ios/icon/icon-1024.png" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-1024.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/ios/icon/icon-40.png" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-40.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/ios/icon/icon-40@2x.png" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-40@2x.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/ios/icon/icon-40@3x.png" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-40@3x.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/ios/icon/icon-50.png" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-50.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/ios/icon/icon-50@2x.png" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-50@2x.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/ios/icon/icon-60.png" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-60.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/ios/icon/icon-60@2x.png" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-60@2x.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/ios/icon/icon-60@3x.png" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-60@3x.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/ios/icon/icon-72.png" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-72.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/ios/icon/icon-72@2x.png" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-72@2x.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/ios/icon/icon-76.png" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-76.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/ios/icon/icon-76@2x.png" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-76@2x.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/ios/icon/icon-83.5@2x.png" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-83.5@2x.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/ios/icon/icon-small.png" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-small.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/ios/icon/icon-small@2x.png" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-small@2x.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/ios/icon/icon-small@3x.png" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-small@3x.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/ios/icon/icon.png" afterPath="$PROJECT_DIR$/resources/ios/icon/icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/ios/icon/icon@2x.png" afterPath="$PROJECT_DIR$/resources/ios/icon/icon@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/images/drawer-image.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/images/drawer-image1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/images/drawer-image2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/images/homepage-pic.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/images/splash-bottom.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -51,32 +21,60 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ionic.config.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ionic.config.json">
+      <file leaf-file-name="menu.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/templates/menu.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="204">
+              <caret line="12" column="45" lean-forward="false" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="45" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="icon-40@3x.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/ios/icon/icon-40@3x.png">
+      <file leaf-file-name="image1.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/images/image1.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="icon-small@3x.png" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/resources/ios/icon/icon-small@3x.png">
+      <file leaf-file-name="homepage-pic.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/images/homepage-pic.jpg">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="platforms.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/platforms/platforms.json">
+      <file leaf-file-name="drawer-image.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/images/drawer-image.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="drawer-image1.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/images/drawer-image1.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="drawer-image2.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/images/drawer-image2.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="splash-bottom.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/images/splash-bottom.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="splash.svg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/images/splash.svg">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -85,13 +83,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ios.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/platforms/ios/ios.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
+      <file leaf-file-name="drawable-hdpi-icon.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/android/icon/drawable-hdpi-icon.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="drawable-land-hdpi-screen.png" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/android/splash/drawable-land-hdpi-screen.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -127,7 +129,7 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="7" />
+    <option name="x" value="9" />
     <option name="width" value="1920" />
     <option name="height" value="1047" />
   </component>
@@ -161,18 +163,43 @@
             <path>
               <item name="anubis" type="b2602c69:ProjectViewProjectNode" />
               <item name="anubis" type="462c0819:PsiDirectoryNode" />
-              <item name="platforms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="anubis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="anubis" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="anubis" type="b2602c69:ProjectViewProjectNode" />
               <item name="anubis" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="ios" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="anubis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="anubis" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="anubis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="anubis" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="anubis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="anubis" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="anubis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="anubis" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="anubis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="anubis" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="sidemenu" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -188,6 +215,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nguyetr\Documents\code\anubis\www\images" />
       <recent name="C:\Users\nguyetr\Documents\code\anubis\resources\ios\icon" />
     </key>
   </component>
@@ -214,18 +242,27 @@
       <option name="presentableId" value="Default" />
       <updated>1507834893298</updated>
       <workItem from="1507834897100" duration="1646000" />
-      <workItem from="1507841938695" duration="735000" />
+      <workItem from="1507841938695" duration="3310000" />
     </task>
+    <task id="LOCAL-00001" summary="add new icons">
+      <created>1507898918686</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1507898918686</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2381000" />
+    <option name="totallyTimeSpent" value="4956000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="7" y="0" width="1920" height="1047" extended-state="0" />
+    <frame x="9" y="0" width="1920" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -248,6 +285,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add new icons" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new icons" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -302,6 +343,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/resources/ios/icon/icon-small@3x.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/ios/icon/icon-40@3x.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ionic.config.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -310,12 +361,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/ios/icon/icon-40@3x.png">
+    <entry file="file://$PROJECT_DIR$/www/templates/menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="45" lean-forward="false" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/images/image1.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/ios/icon/icon-small@3x.png">
+    <entry file="file://$PROJECT_DIR$/www/images/homepage-pic.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/images/drawer-image.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/images/drawer-image1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/images/drawer-image2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/images/splash-bottom.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/images/splash.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/android/icon/drawable-hdpi-icon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/android/splash/drawable-land-hdpi-screen.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
