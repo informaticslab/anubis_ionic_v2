@@ -22,6 +22,7 @@ angular.module('starter.controllers', ['ui.router'])
   $scope.moreE = false;
   $scope.moreF = false;
   $scope.moreG = false;
+  $scope.alertPopup = null;
 
   $scope.groups = [];
   $scope.groups = [
@@ -348,7 +349,7 @@ $ionicPopover.fromTemplateUrl('templates/popover-menu.html', {
 
   $scope.openD = function(id){
     var templateId = 'templates/d'+id+'.html'
-    var alertPopup = $ionicPopup.alert({
+    $scope.alertPopup = $ionicPopup.alert({
       templateUrl: templateId,
       cssClass: 'custom-class', // Add
       scope: $scope
@@ -391,6 +392,13 @@ $ionicPopover.fromTemplateUrl('templates/popover-menu.html', {
     viewData.enableBack = true;
   });
 
+  $scope.$on('$stateChangeStart', function(event, toState, toParams, fromState, fromParams) {
+    if ($scope.alertPopup){
+      $scope.alertPopup.close();
+    }
+
+    // alert('something changes');
+  });
 })
 
 .controller('HomeCtrl', function($scope) {
