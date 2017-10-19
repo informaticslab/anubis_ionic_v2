@@ -135,14 +135,14 @@ paper-tabs { background-color: #f37018; color: #ffffff; }
 }
 
 paper-toolbar#drawerToolbar{
-  background-image: url('../images/drawer-image1.jpg');
+  background-image: url('../images/Anubis_Hez_v2.png');
   background-repeat: no-repeat;
   /*background-size: contain;*/
   height: 145px;
 }
 
 app-toolbar#drawerToolbar{
-  background-image: url('../images/drawer-image1.jpg');
+  background-image: url('../images/Anubis_Hez_v2.png');
   background-repeat: no-repeat;
   /*background-size: contain;*/
   height: 145px;
