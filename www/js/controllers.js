@@ -33,7 +33,7 @@ angular.module('starter.controllers', ['ui.router'])
         },
         { name: 'Guidelines',
           items : [
-            {item_name  : 'General Instruction', url:"anubis-generalinstructions.html"},
+            {item_name  : 'General Instructions', url:"anubis-generalinstructions.html"},
             {item_name  : 'Medical Certification of Death', url:"anubis-medicalcertification.html"}
           ],
           url   : "anubis-guidelines.html",
@@ -53,48 +53,31 @@ angular.module('starter.controllers', ['ui.router'])
       url   : "anubis-certifyingdeath.html",
       show: false
     },
-        { name: 'Complete Part I and II',
+        { name: 'Completing Part I and II',
           items : [
                     {item_name  : 'Part I', url:"anubis-part1.html"},
                     {item_name  : 'Part II', url:"anubis-part2.html"}
                   ],
           show: false
         },
-        { name  : 'Examples',
-          items :  [
-                        {item_name  : '48-year-old Male with Cramping', url :"anubis-examples-ch1.html" },
-                        {item_name  : '68-year-old Male with Progressive Lower Quadrant Pain', url : "anubis-examples-ch2.html"},
-                        {item_name  : '75-year-old Male Complaining of Severe Chest Pain', url : "anubis-examples-ch3.html"},
-                        {item_name  : '68-year-old Female with dyspnea and Moderate Retrosternal Pain', url : "anubis-examples-ch4.html"},
-                        {item_name  : '78-year-old Female with Temperature of 102.6F', url : "anubis-examples-ch5.html"},
-                        {item_name  : '34-year-old Male with Severe Shortness of Breath', url : "anubis-examples-ch6.html"},
-                        {item_name  : '75-year-old Male with History of Chronic Bronchitis', url : "anubis-examples-ch7.html"},
-                        {item_name  : '75-year-old Female with History of Diabetes Mellitus, Hypertension, and Myocardial Ingfraction', url : "anubis-examples-ch8.html"},
-                        {item_name  : '53-year-old Male with Intermittent Midpigastric, and Left-Sided Chest Pain', url : "anubis-examples-ch9.html"},
-                        {item_name  : '1480-gram Male Infant at 32 Weeks Gestation to a 20-year-old Primiparious Woman', url : "anubis-examples-ch10.html"},
-                        {item_name  : '30-year-old garvida-six, para-five, with a History of Gestational Hypertension', url : "anubis-examples-ch11.html"},
-                        {item_name  : '92-year-old Male Found Dead', url : "anubis-examples-ch12.html"},
-                        {item_name  : '102-yeal-old Female with Sudden Onset of Speec Abnormality', url : "anubis-examples-ch13.html"}
-                    ],
-          show: false
-        },
+       
         { name  : 'Common Problems',
           items : [
                   {item_name  : 'Uncertainty', url :"anubis-problems-uncertainty.html" },
                   {item_name  : 'Advanced Age', url :"anubis-problems-advancedage.html" },
                   {item_name  : 'Infants', url :"anubis-problems-infants.html" },
                   {item_name  : 'Specificity', url :"anubis-problems-specificity.html" },
-                  {item_name:'Possible Injuries or Poisoning', url:"anubis-problems-unnaturalcauses.html"}
+                  {item_name:'Possible Injuries or Poisonings', url:"anubis-problems-unnaturalcauses.html"}
 
           ],
           show: false
         },
-        { name  : 'Other Parts of Certification',
+        { name  : 'Other Parts of The Certification',
           items : [
             {item_name  : 'Autopsy', url :"anubis-autopsy.html" },
             {item_name  : 'Tobacco Use', url :"anubis-tobacco.html" },
             {item_name  : 'Pregancy', url :"anubis-pregnancy.html" },
-            {item_name  : 'Manner of Death', url :"anubis-mannerofdeath.html" },
+            {item_name  : 'Manner of Death', url :"anubis-mannerofdeath.html" }
           ],
           show: false
     },
@@ -103,6 +86,25 @@ angular.module('starter.controllers', ['ui.router'])
       ],
       url   : "anubis-causeofdeath.html",
       show: false
+    },
+    {
+        name: 'Examples',
+        items: [
+            { item_name: '48-year-old Male with Cramping', url: "anubis-examples-ch1.html" },
+            { item_name: '68-year-old Male with Progressive Lower Quadrant Pain', url: "anubis-examples-ch2.html" },
+            { item_name: '75-year-old Male Complaining of Severe Chest Pain', url: "anubis-examples-ch3.html" },
+            { item_name: '68-year-old Female with Dyspnea and Moderate Retrosternal Pain', url: "anubis-examples-ch4.html" },
+            { item_name: '78-year-old Female with Temperature of 102.6F', url: "anubis-examples-ch5.html" },
+            { item_name: '34-year-old Male with Severe Shortness of Breath', url: "anubis-examples-ch6.html" },
+            { item_name: '75-year-old Male with History of Chronic Bronchitis', url: "anubis-examples-ch7.html" },
+            { item_name: '75-year-old Female with History of Diabetes Mellitus, Hypertension, and Myocardial Infarction', url: "anubis-examples-ch8.html" },
+            { item_name: '53-year-old Male with Intermittent Midepigastric and Left-Sided Chest Pain', url: "anubis-examples-ch9.html" },
+            { item_name: '1,480-gram Male Infant Born at 32 Weeks Gestation to a 20-year-old Primiparous Woman', url: "anubis-examples-ch10.html" },
+            { item_name: '30-year-old Gravida-six, Para-five, with a History of Gestational Hypertension', url: "anubis-examples-ch11.html" },
+            { item_name: '92-year-old Male Found Dead', url: "anubis-examples-ch12.html" },
+            { item_name: '102-year-old Female with Sudden Onset of Speech Abnormality', url: "anubis-examples-ch13.html" }
+        ],
+        show: false
     },
         { name  : 'Additional Resources',
           items : [],
@@ -252,7 +254,7 @@ angular.module('starter.controllers', ['ui.router'])
    }
   $scope.toggleGroup = function(group) {
 
-    if (group.items.length == 0) {
+    if (group.items.length === 0) {
         $location.path("/app/sidemenu/"+group.url);
       //  $state.go('app.sidemenu', {'menuItemUrl' : group.url});
 

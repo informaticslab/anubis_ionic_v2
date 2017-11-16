@@ -14,7 +14,7 @@
         <li>the disease or injury that initiated the train of morbid events leading directly to death or</li>
         <li>the circumstances of the accident or violence that produced the fatal injury.</li>
       </ul>
-
+        <br />
 
 <p>Each condition in Part I should cause the condition above it. A facsimile of Part I is displayed below.</p>
 
@@ -48,7 +48,7 @@ The <i>mechanism</i> of death (e.g., cardiac or respiratory arrest) should <u>no
 <p>
 On line (b) report the disease, condition, or complication, if any, that gave rise to the immediate cause of death reported on line (a). If this in turn resulted from a further condition, record that condition on line (c).
   If this in turn resulted from a further condition, record that condition on line (d). For as many conditions as are involved, write the full sequence, one condition per line, with the most recent condition at the top
-  and the underlying cause of death at the bottom. Using all four lines is not required.  If more than four lines are needed, writing "due to" between conditions on the same line is the same as adding an additional line and is acceptable.
+  and the underlying cause of death at the bottom. Using all four lines is <u>not</u> required.  If more than four lines are needed, writing "due to" between conditions on the same line is acceptable.
   Please do <u>not</u> number the causes or use the space in Part II to continue the sequence in Part I.
  <span ng-show="!moreD"><a class="more" ng-click="toggleMoreD()">Show More</a></span>
  </p>
@@ -62,11 +62,11 @@ The words "due to (or as a consequence of)," which are printed between the lines
 <p>
   Please click on the following conditions for specific instructions:
   <ul>
-    <li><a  ng-click="openD('One')">neoplasms</a></li>
-    <li><a  ng-click="openD('Four')">medical errors</a></li>
-    <li><a  ng-click="openD('Five')">drugs</a></li>
-    <li><a  ng-click="openD('Three')">dementia</a></li>
-    <li><a  ng-click="openD('Six')">diabetes</a></li>
+    <li><a ng-click="openD('One')">neoplasms</a></li>
+    <li><a ng-click="openD('Four')">medical errors</a></li>
+    <li><a ng-click="openD('Five')">drugs</a></li>
+    <li><a ng-click="openD('Three')">dementia</a></li>
+    <li><a ng-click="openD('Six')">diabetes</a></li>
   </ul>
 </p>
 <br/>
@@ -90,6 +90,73 @@ These intervals usually are established by the physician on the basis of availab
       </div>
 
 
+    <script>
+      //console.log("part 1");
+      Polymer({
+        is:"hbcod-part1",
+        toggleMoreC: function(){
+          this.moreC=!(this.moreC);
+        },
+        toggleMoreD: function(){
+          this.moreD=!(this.moreD);
+        },
+        toggleMoreE: function(){
+          this.moreE=!(this.moreE);
+        },
+        openDialog: function(){
+          //console.log("opened");
+          if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
 
+          }
+          else{
+            var dialog = this.$.backdropP1;
+            if (dialog) {
+              dialog.open();
+            }
+          }
+        },
+        openDone: function(){
+          this.$.dOne.open();
+        },
+        openDtwo: function(){
+          this.$.dTwo.open();
+        },
+        openDthree: function(){
+          this.$.dThree.open();
+        },
+        openDfour: function(){
+          this.$.dFour.open();
+        },
+        openDfive: function(){
+          this.$.dFive.open();
+        },
+        openDsix: function(){
+          this.$.dSix.open();
+        },
+        properties: {
+          selected: {
+            type: String,
+            value: 0
+          },
+          moreC: {
+            type: Boolean,
+            reflectToAttribute: true,
+            value: true
+          },
+          moreD: {
+            type: Boolean,
+            reflectToAttribute: true,
+            value: true
+          },
+          moreE: {
+            type: Boolean,
+            reflectToAttribute: true,
+            value: true
+          },
+        }
+
+      });
+
+    </script>
   </ion-content>
 </ion-view>
