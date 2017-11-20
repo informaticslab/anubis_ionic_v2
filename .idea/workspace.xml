@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4bd3b606-2878-4a1d-8e49-2c303aa4688c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/controllers.js" afterPath="$PROJECT_DIR$/www/js/controllers.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch5.html" afterPath="$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch5.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch6.html" afterPath="$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch6.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.xml" afterPath="$PROJECT_DIR$/config.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -37,6 +35,16 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="408">
               <caret line="24" column="4" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="46" lean-forward="false" selection-start-line="1" selection-start-column="46" selection-end-line="1" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -82,18 +90,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="anubis-examples-ch10.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="anubis-examples-ch10.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch10.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dOne.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/templates/dOne.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -145,7 +143,6 @@
         <option value="$PROJECT_DIR$/www/templates/sidemenu/anubis-part1.html" />
         <option value="$PROJECT_DIR$/www/templates/dFive.html" />
         <option value="$PROJECT_DIR$/www/templates/menu.html" />
-        <option value="$PROJECT_DIR$/config.xml" />
         <option value="$PROJECT_DIR$/www/css/custom.css" />
         <option value="$PROJECT_DIR$/www/templates/sidemenu/anubis-mannerofdeath.html" />
         <option value="$PROJECT_DIR$/www/templates/sidemenu/anubis-generalinstructions.html" />
@@ -158,6 +155,7 @@
         <option value="$PROJECT_DIR$/www/js/controllers.js" />
         <option value="$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch5.html" />
         <option value="$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch6.html" />
+        <option value="$PROJECT_DIR$/config.xml" />
       </list>
     </option>
   </component>
@@ -326,7 +324,7 @@
       <workItem from="1507834897100" duration="1646000" />
       <workItem from="1507841938695" duration="23780000" />
       <workItem from="1508354740107" duration="20076000" />
-      <workItem from="1510871098073" duration="1796000" />
+      <workItem from="1510871098073" duration="1973000" />
     </task>
     <task id="LOCAL-00001" summary="add new icons">
       <created>1507898918686</created>
@@ -412,11 +410,18 @@
       <option name="project" value="LOCAL" />
       <updated>1510871980695</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Bug Fixes">
+      <created>1511203110340</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1511203110340</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47298000" />
+    <option name="totallyTimeSpent" value="47475000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="240" y="0" width="1920" height="1407" extended-state="0" />
@@ -514,7 +519,8 @@
     <MESSAGE value="update image's name in code to match with the actual file name" />
     <MESSAGE value="push to versioin v0.1.6" />
     <MESSAGE value="push to versioin v0.1.7; In this release:  update texts and typos.  moved Examples down to the bottom;  Renamed app to &quot;Cause of Death&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="push to versioin v0.1.7; In this release:  update texts and typos.  moved Examples down to the bottom;  Renamed app to &quot;Cause of Death&quot;" />
+    <MESSAGE value="Bug Fixes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bug Fixes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -655,14 +661,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4403">
           <caret line="259" column="16" lean-forward="false" selection-start-line="259" selection-start-column="16" selection-end-line="259" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="46" lean-forward="false" selection-start-line="1" selection-start-column="46" selection-end-line="1" selection-end-column="46" />
           <folding />
         </state>
       </provider>
@@ -849,6 +847,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="46" lean-forward="false" selection-start-line="1" selection-start-column="46" selection-end-line="1" selection-end-column="46" />
           <folding />
         </state>
       </provider>
