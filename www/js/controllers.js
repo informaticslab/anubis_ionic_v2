@@ -60,7 +60,7 @@ angular.module('starter.controllers', ['ui.router'])
                   ],
           show: false
         },
-       
+
         { name  : 'Common Problems',
           items : [
                   {item_name  : 'Uncertainty', url :"anubis-problems-uncertainty.html" },
@@ -387,7 +387,7 @@ $ionicPopover.fromTemplateUrl('templates/popover-menu.html', {
   };
 
   $scope.showExamples = function(){
-    $scope.toggleGroup($scope.groups[5]);
+    $scope.toggleGroup($scope.groups[8]);
   };
 
   $scope.$on('$ionicView.beforeEnter', function (event, viewData) {

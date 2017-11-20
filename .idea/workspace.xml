@@ -1,34 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4bd3b606-2878-4a1d-8e49-2c303aa4688c" name="Default" comment="push to versioin v0.1.6">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/anubis.iml" afterPath="$PROJECT_DIR$/.idea/anubis.iml" />
+    <list default="true" id="4bd3b606-2878-4a1d-8e49-2c303aa4688c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.xml" afterPath="$PROJECT_DIR$/config.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/css/custom.css" afterPath="$PROJECT_DIR$/www/css/custom.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/controllers.js" afterPath="$PROJECT_DIR$/www/js/controllers.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/templates/dFive.html" afterPath="$PROJECT_DIR$/www/templates/dFive.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/templates/dFour.html" afterPath="$PROJECT_DIR$/www/templates/dFour.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/templates/dOne.html" afterPath="$PROJECT_DIR$/www/templates/dOne.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/templates/dSix.html" afterPath="$PROJECT_DIR$/www/templates/dSix.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/templates/dThree.html" afterPath="$PROJECT_DIR$/www/templates/dThree.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/templates/sidemenu/anubis-certifyingdeath.html" afterPath="$PROJECT_DIR$/www/templates/sidemenu/anubis-certifyingdeath.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch4.html" afterPath="$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch4.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/templates/sidemenu/anubis-generalinstructions.html" afterPath="$PROJECT_DIR$/www/templates/sidemenu/anubis-generalinstructions.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/templates/sidemenu/anubis-mannerofdeath.html" afterPath="$PROJECT_DIR$/www/templates/sidemenu/anubis-mannerofdeath.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/templates/sidemenu/anubis-medicalcertification.html" afterPath="$PROJECT_DIR$/www/templates/sidemenu/anubis-medicalcertification.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/templates/sidemenu/anubis-part1.html" afterPath="$PROJECT_DIR$/www/templates/sidemenu/anubis-part1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/templates/sidemenu/anubis-part2.html" afterPath="$PROJECT_DIR$/www/templates/sidemenu/anubis-part2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/templates/sidemenu/anubis-pregnancy.html" afterPath="$PROJECT_DIR$/www/templates/sidemenu/anubis-pregnancy.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/templates/sidemenu/anubis-problems-infants.html" afterPath="$PROJECT_DIR$/www/templates/sidemenu/anubis-problems-infants.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/templates/sidemenu/anubis-problems-specificity.html" afterPath="$PROJECT_DIR$/www/templates/sidemenu/anubis-problems-specificity.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/templates/sidemenu/anubis-problems-unnaturalcauses.html" afterPath="$PROJECT_DIR$/www/templates/sidemenu/anubis-problems-unnaturalcauses.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/templates/sidemenu/anubis-pronouncingdeath.html" afterPath="$PROJECT_DIR$/www/templates/sidemenu/anubis-pronouncingdeath.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/templates/sidemenu/anubis-welcome.html" afterPath="$PROJECT_DIR$/www/templates/sidemenu/anubis-welcome.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch5.html" afterPath="$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch5.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch6.html" afterPath="$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch6.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
+    <ignored path=".vs/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,8 +20,40 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="anubis-problems-specificity.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/templates/sidemenu/anubis-problems-specificity.html">
+      <file leaf-file-name="controllers.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/js/controllers.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3106">
+              <caret line="389" column="38" lean-forward="false" selection-start-line="389" selection-start-column="38" selection-end-line="389" selection-end-column="38" />
+              <folding>
+                <element signature="e#4971#8408#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="anubis-examples-ch5.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch5.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="4" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="anubis-examples-ch6.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch6.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="28" column="16" lean-forward="true" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="anubis-examples-ch7.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch7.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -48,8 +62,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="anubis-problems-unnaturalcauses.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/templates/sidemenu/anubis-problems-unnaturalcauses.html">
+      <file leaf-file-name="anubis-examples-ch8.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch8.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -58,8 +72,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="anubis-pronouncingdeath.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/templates/sidemenu/anubis-pronouncingdeath.html">
+      <file leaf-file-name="anubis-examples-ch9.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch9.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -68,31 +82,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="anubis-welcome.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/templates/sidemenu/anubis-welcome.html">
+      <file leaf-file-name="anubis-examples-ch10.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch10.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="154" lean-forward="false" selection-start-line="16" selection-start-column="91" selection-end-line="16" selection-end-column="154" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dFive.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/templates/dFive.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dFour.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/templates/dFour.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -118,18 +112,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dThree.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="dThree.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/templates/dThree.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="anubis-problems-infants.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/templates/sidemenu/anubis-problems-infants.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -159,7 +143,6 @@
         <option value="$PROJECT_DIR$/www/templates/popover-menu.html" />
         <option value="$PROJECT_DIR$/www/js/app.js" />
         <option value="$PROJECT_DIR$/www/templates/sidemenu/anubis-part1.html" />
-        <option value="$PROJECT_DIR$/www/js/controllers.js" />
         <option value="$PROJECT_DIR$/www/templates/dFive.html" />
         <option value="$PROJECT_DIR$/www/templates/menu.html" />
         <option value="$PROJECT_DIR$/config.xml" />
@@ -172,6 +155,9 @@
         <option value="$PROJECT_DIR$/www/templates/sidemenu/anubis-problems-specificity.html" />
         <option value="$PROJECT_DIR$/www/templates/sidemenu/anubis-problems-unnaturalcauses.html" />
         <option value="$PROJECT_DIR$/www/templates/sidemenu/anubis-pronouncingdeath.html" />
+        <option value="$PROJECT_DIR$/www/js/controllers.js" />
+        <option value="$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch5.html" />
+        <option value="$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch6.html" />
       </list>
     </option>
   </component>
@@ -261,12 +247,6 @@
               <item name="anubis" type="b2602c69:ProjectViewProjectNode" />
               <item name="anubis" type="462c0819:PsiDirectoryNode" />
               <item name="www" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="anubis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="anubis" type="462c0819:PsiDirectoryNode" />
-              <item name="www" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -346,7 +326,7 @@
       <workItem from="1507834897100" duration="1646000" />
       <workItem from="1507841938695" duration="23780000" />
       <workItem from="1508354740107" duration="20076000" />
-      <workItem from="1510871098073" duration="674000" />
+      <workItem from="1510871098073" duration="1796000" />
     </task>
     <task id="LOCAL-00001" summary="add new icons">
       <created>1507898918686</created>
@@ -425,17 +405,25 @@
       <option name="project" value="LOCAL" />
       <updated>1508528405970</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="push to versioin v0.1.7; In this release:  update texts and typos.  moved Examples down to the bottom;  Renamed app to &quot;Cause of Death&quot;">
+      <created>1510871980695</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1510871980695</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46176000" />
+    <option name="totallyTimeSpent" value="47298000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="240" y="0" width="1920" height="1407" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23824209" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -525,48 +513,14 @@
     <MESSAGE value="use new drawer image; adjusted for color match" />
     <MESSAGE value="update image's name in code to match with the actual file name" />
     <MESSAGE value="push to versioin v0.1.6" />
-    <option name="LAST_COMMIT_MESSAGE" value="push to versioin v0.1.6" />
+    <MESSAGE value="push to versioin v0.1.7; In this release:  update texts and typos.  moved Examples down to the bottom;  Renamed app to &quot;Cause of Death&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="push to versioin v0.1.7; In this release:  update texts and typos.  moved Examples down to the bottom;  Renamed app to &quot;Cause of Death&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/resources/ios/icon/icon-40@3x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ionic.config.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/images/homepage-pic.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/images/splash-bottom.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/images/splash.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/android/icon/drawable-hdpi-icon.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/android/splash/drawable-land-hdpi-screen.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -690,45 +644,9 @@
         <state relative-caret-position="510">
           <caret line="30" column="28" lean-forward="false" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#ion-nav-title#0;n#ion-nav-bar#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#ion-content#0;n#ion-side-menu#0;n#ion-side-menus#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#image#0;n#div#0;n#ion-content#0;n#ion-side-menu#0;n#ion-side-menus#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/controllers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6732">
-          <caret line="398" column="32" lean-forward="false" selection-start-line="398" selection-start-column="32" selection-end-line="398" selection-end-column="32" />
-          <folding>
-            <marker date="1510687985358" expanded="true" signature="239:12007" ph="{...}" />
-            <marker date="1510687985358" expanded="true" signature="1015:1246" ph="[...]" />
-            <marker date="1510687985358" expanded="true" signature="1198:1246" ph="[...]" />
-            <marker date="1510687985358" expanded="true" signature="8561:8727" ph="{...}" />
-            <marker date="1510687985358" expanded="true" signature="8843:8979" ph="{...}" />
-            <marker date="1510687985358" expanded="true" signature="8884:8926" ph="{...}" />
-            <marker date="1510687985358" expanded="true" signature="8932:8975" ph="{...}" />
-            <marker date="1510687985358" expanded="true" signature="9135:9260" ph="{...}" />
-            <marker date="1510687985358" expanded="true" signature="9304:9455" ph="{...}" />
-            <marker date="1510687985358" expanded="true" signature="9395:9451" ph="{...}" />
-            <marker date="1510687985358" expanded="true" signature="9560:9622" ph="{...}" />
-            <marker date="1510687985358" expanded="true" signature="9712:9748" ph="{...}" />
-            <marker date="1510687985358" expanded="true" signature="9827:9858" ph="{...}" />
-            <marker date="1510687985358" expanded="true" signature="9942:9973" ph="{...}" />
-            <marker date="1510687985358" expanded="true" signature="10279:10317" ph="{...}" />
-            <marker date="1510687985358" expanded="true" signature="10354:10386" ph="{...}" />
-            <marker date="1510687985358" expanded="true" signature="10473:10507" ph="{...}" />
-            <marker date="1510687985358" expanded="true" signature="10588:10615" ph="{...}" />
-            <marker date="1510687985358" expanded="true" signature="10699:10726" ph="{...}" />
-            <marker date="1510687985358" expanded="true" signature="10824:11017" ph="{...}" />
-            <marker date="1510687985358" expanded="true" signature="11053:11092" ph="{...}" />
-            <marker date="1510687985358" expanded="true" signature="11127:11166" ph="{...}" />
-            <marker date="1510687985358" expanded="true" signature="11276:11315" ph="{...}" />
-            <marker date="1510687985358" expanded="true" signature="11425:11464" ph="{...}" />
-            <marker date="1510687985358" expanded="true" signature="12051:12054" ph="{...}" />
-            <marker date="1510687985358" expanded="true" signature="12100:12103" ph="{...}" />
-            <marker date="1510687985358" expanded="true" signature="12150:12153" ph="{...}" />
+            <element signature="n#style#0;n#div#0;n#ion-nav-title#0;n#ion-nav-bar#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#ion-content#0;n#ion-side-menu#0;n#ion-side-menus#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#image#0;n#div#0;n#ion-content#0;n#ion-side-menu#0;n#ion-side-menus#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -870,6 +788,64 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/templates/dThree.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/controllers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3106">
+          <caret line="389" column="38" lean-forward="false" selection-start-line="389" selection-start-column="38" selection-end-line="389" selection-end-column="38" />
+          <folding>
+            <element signature="e#4971#8408#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="4" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch6.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="16" lean-forward="true" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch7.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch8.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch9.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch10.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
