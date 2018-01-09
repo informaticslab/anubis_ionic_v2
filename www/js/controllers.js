@@ -72,7 +72,7 @@ angular.module('starter.controllers', ['ui.router'])
           ],
           show: false
         },
-        { name  : 'Other Parts of The Certification',
+        { name  : 'Other Parts of the Certification',
           items : [
             {item_name  : 'Autopsy', url :"anubis-autopsy.html" },
             {item_name  : 'Tobacco Use', url :"anubis-tobacco.html" },
