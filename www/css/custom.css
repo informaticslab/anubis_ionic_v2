@@ -27,7 +27,7 @@ h4 { font-size: 20px; }
 
 a, a:active { color: #f37018; text-decoration: none; }
 /*a, a:active, a:visited, a:focus { color: #f37018; text-decoration: none; }*/
-a:hover { color: #f37018; text-decoration: underline; }
+a:hover { color: #444; text-decoration: none; }
 
 ul { list-style-type: disc; padding-left: 35px; }
 ol { list-style-type: decimal; padding-left:35px;}
