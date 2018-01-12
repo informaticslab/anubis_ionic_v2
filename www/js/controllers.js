@@ -53,7 +53,7 @@ angular.module('starter.controllers', ['ui.router'])
       url   : "anubis-certifyingdeath.html",
       show: false
     },
-        { name: 'Completing Part I and II',
+        { name: 'Completing Parts I and II',
           items : [
                     {item_name  : 'Part I', url:"anubis-part1.html"},
                     {item_name  : 'Part II', url:"anubis-part2.html"}
