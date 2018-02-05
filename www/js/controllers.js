@@ -24,7 +24,7 @@ angular.module('starter.controllers', ['ui.router'])
   $scope.moreG = false;
   $scope.alertPopup = null;
 
-  $scope.groups = [];
+  //$scope.groups = [];
   $scope.groups = [
         { name: 'Introduction',
           items : [],
