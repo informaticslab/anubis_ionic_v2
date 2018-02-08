@@ -1,8 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="gov.cdc.iiu.anubis" version="0.1.10" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>Cause of Death</name>
-    <description>A death certification guide</description>
-    <author email="tnmissilen@gmail.com" href="http://www.phiresearchlab.org/">Trung Nguyen</author>
+    <description>A quick refernce guide for medical certifiers when they need to certify a cause of death</description>
     <content src="index.html" />
     <access origin="*" />
     <allow-navigation href="http://ionic.local/*" />
