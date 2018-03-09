@@ -126,6 +126,9 @@ ion-popover-view.fit ion-content {
   margin-top: 10px !important;
 }
 
+ion-scroll{
+  height:100%;
+}
 
 .menu-animated {
   -webkit-transition: -webkit-transform 600ms ease;
