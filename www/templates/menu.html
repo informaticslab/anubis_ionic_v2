@@ -33,18 +33,18 @@
             <ion-list>
                 <div ng-repeat="group in groups">
                     <div ng-if="group.items.length != 0">
-                        <ion-item role="button" class="item-stable" ng-click="toggleGroup(group)">
+                        <ion-item role="button" aria-expanded="{{isGroupShown(group)}}" class="item-stable" ng-click="toggleGroup(group)">
                             <!--  <ion-item ng-if="group.items.length == 0" class="item-stable" menu-close href="#/app/sidemenu/{{group.url}}"> -->
                             {{group.name}} &nbsp;
                             <div class="item-icon-right">
                                 <i class="icon " ng-class="isGroupShown(group) ? 'ion-ios-arrow-down' : 'ion-ios-arrow-right'" ng-show="group.items.length > 0"></i>
                             </div>
                         </ion-item>
-                        <ion-item class="item-accordion item-text-wrap item-content" ng-repeat="item in group.items" ng-show="isGroupShown(group)" menu-close ui-sref="app.sidemenu({menuItemUrl:item.url})" ui-sref-active="active">{{item.item_name}}
+                        <ion-item role="button" class="item-accordion item-text-wrap item-content" ng-repeat="item in group.items" ng-show="isGroupShown(group)" menu-close ui-sref="app.sidemenu({menuItemUrl:item.url})" ui-sref-active="active">{{item.item_name}}
                         </ion-item>
                     </div>
                     <div ng-if="group.items.length == 0">
-                        <ion-item ng-if="group.items.length == 0" class="item-stable item-text-wrap" menu-close ui-sref="app.sidemenu({menuItemUrl:group.url})" ui-sref-active="active">
+                        <ion-item ng-if="group.items.length == 0" role="button" class="item-stable item-text-wrap" menu-close ui-sref="app.sidemenu({menuItemUrl:group.url})" ui-sref-active="active">
                             {{group.name}}</ion-item>
                     </div>
                 </div>
