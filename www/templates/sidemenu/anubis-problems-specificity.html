@@ -15,11 +15,11 @@
           <div style="text-indent:20px;">
             <ion-list class="item-text-wrap">
               <div ng-repeat="group in etiologyGroups">
-                <ion-item class="item-stable" style="border:none !important; background-color:#ffffff;padding:10px;"
+                <ion-item role="button" aria-expanded="{{isEitGroupShown(group)}}" class="item-stable" style="border:none !important; background-color:#ffffff;padding:10px;"
                           ng-click="toggleEitGroup(group)"
                           ng-class="{active: isEitGroupShown(group)}">
                   <span style="color:#f37018;">{{group.name}}</span>
-                  <i class="icon" ng-class="isEitGroupShown(group) ? 'ion-minus-circled' : 'ion-plus-circled'"></i>
+                  <i class="icon"  ng-class="isEitGroupShown(group) ? 'ion-minus-circled' : 'ion-plus-circled'"></i>
                 </ion-item>
                 <ion-item ng-repeat="item in group.items" ng-show="isEitGroupShown(group)" style="border:none !important; padding:2px;">
                   <li style="margin-left:20px;">{{item}}</li>
