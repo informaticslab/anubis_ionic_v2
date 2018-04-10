@@ -25,7 +25,7 @@
 <br/>
       <p>
         <div>
-           <img alt="Cause of Death Part 1 Section" ng-src="images/Part1.png" ng-click="showImages(1,'images/Part1.png')" class="image-list-thumb"/>
+           <img alt="Cause of Death Part 1 Section" ng-src="images/Part1.png" role="link" ng-click="showImages(1,'images/Part1.png')" class="image-list-thumb"/>
         </div>
       </p>
 
@@ -35,7 +35,7 @@
 Line (a), immediate cause</b>
 </p>
 <p>
-In Part I, the immediate cause of death is reported on line (a). <span ng-show="!moreC"><a class="more" ng-click="toggleMoreC()">Show More</a></span><span ng-show="moreC"> This condition is the final disease, injury, or complication directly causing the death. An immediate cause of death must always be reported on line (a). It can be the sole entry in the cause of death section if that condition is the only condition causing the death. <a class="more" ng-click="toggleMoreC()">Show Less</a></span>
+In Part I, the immediate cause of death is reported on line (a). <span ng-show="!moreC"><a class="more" role="button" ng-click="toggleMoreC()">Show More</a></span><span ng-show="moreC"> This condition is the final disease, injury, or complication directly causing the death. An immediate cause of death must always be reported on line (a). It can be the sole entry in the cause of death section if that condition is the only condition causing the death. <a class="more" ng-click="toggleMoreC()">Show Less</a></span>
 </p>
 
 <p>
@@ -51,23 +51,23 @@ On line (b) report the disease, condition, or complication, if any, that gave ri
   If this in turn resulted from a further condition, record that condition on line (d). For as many conditions as are involved, write the full sequence, one condition per line, with the most recent condition at the top
   and the underlying cause of death at the bottom. Using all four lines is <u>not</u> required.  If more than four lines are needed, writing "due to" between conditions on the same line is acceptable.
   Please do <u>not</u> number the causes or use the space in Part II to continue the sequence in Part I.
- <span ng-show="!moreD"><a class="more" ng-click="toggleMoreD()">Show More</a></span>
+ <span ng-show="!moreD"><a class="more" role="button" ng-click="toggleMoreD()">Show More</a></span>
  </p>
 <span ng-show="moreD">
 <p>
 The words "due to (or as a consequence of)," which are printed between the lines of Part I, apply not only in sequences with an etiological or pathological basis and usually a chronological time ordering, but also to sequences in which an antecedent condition is believed to have prepared the way for a subsequent cause by damage to tissues or impairment of function.
- <a class="more" ng-click="toggleMoreD()">Show Less</a>
+ <a class="more" role="button" ng-click="toggleMoreD()">Show Less</a>
 </p>
 </span>
 
 <p>
   Please click on the following conditions for specific instructions:
   <ul>
-    <li><a ng-click="openD('One')">neoplasms</a></li>
-    <li><a ng-click="openD('Four')">medical errors</a></li>
-    <li><a ng-click="openD('Five')">drugs</a></li>
-    <li><a ng-click="openD('Three')">dementia</a></li>
-    <li><a ng-click="openD('Six')">diabetes</a></li>
+    <li><a role="button" ng-click="openD('One')">neoplasms</a></li>
+    <li><a role="button" ng-click="openD('Four')">medical errors</a></li>
+    <li><a role="button" ng-click="openD('Five')">drugs</a></li>
+    <li><a role="button" ng-click="openD('Three')">dementia</a></li>
+    <li><a role="button" ng-click="openD('Six')">diabetes</a></li>
   </ul>
 </p>
 <br/>
@@ -78,12 +78,12 @@ The words "due to (or as a consequence of)," which are printed between the lines
 
 <p>
 Space is provided to the right of lines (a), (b), (c), and (d) for recording the interval between the presumed onset of the condition (<u>not</u> the diagnosis of the condition) and the time of death.
-  This information should be entered for all conditions in Part I. <span ng-show="!moreE"><a class="more" ng-click="toggleMoreE()">Show More</a></span>
+  This information should be entered for all conditions in Part I. <span ng-show="!moreE"><a class="more" role="button" ng-click="toggleMoreE()">Show More</a></span>
 </p>
 <span ng-show="moreE">
 <p>
 These intervals usually are established by the physician on the basis of available information. In some cases the interval will have to be estimated and the term "approximately" may be used. General terms, such as minutes, hours, days, or years, are acceptable, if necessary. Please do <u>not</u> use dashes. If the time of onset is entirely unknown, state that the interval is "unknown." Please do <u>not</u> leave these items blank.
- <a class="more" ng-click="toggleMoreE()">Show Less</a>
+ <a class="more" role="button" ng-click="toggleMoreE()">Show Less</a>
 </p>
 </span>
 

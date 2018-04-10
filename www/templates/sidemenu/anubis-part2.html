@@ -15,7 +15,7 @@ All other important diseases or conditions that were present at the time of deat
 <br/>
       <p>
         <div>
-              <img alt="Cause of Death Part 2 Section" ng-src="images/Part2.png" ng-click="showImages(1,'images/Part2.png')" class="image-list-thumb"/>
+              <img alt="Cause of Death Part 2 Section" ng-src="images/Part2.png" role="link" ng-click="showImages(1,'images/Part2.png')" class="image-list-thumb"/>
          </div>
       </p>
 
@@ -25,7 +25,7 @@ Multiple conditions and multiple sequences of conditions resulting in death are 
     When there are two or more possible sequences resulting in death, or if two conditions seem to have added together,
     report the sequence thought to have had the greatest impact on death in Part I. Report the other conditions in Part II.
 
-<span ng-show="!moreF"><a class="more" ng-click="toggleMoreF()">Show More</a></span>
+<span ng-show="!moreF"><a class="more" role="button" ng-click="toggleMoreF()">Show More</a></span>
 </p>
 
 <span ng-show="moreF">
@@ -38,7 +38,7 @@ For example, in the case of a diabetic male with chronic ischemic heart disease 
 </ul>
   <br />
 Because these three possibilities would be coded very differently, it is important for the certifying physician to decide which sequence most accurately describes the conditions causing death.
- <a class="more" ng-click="toggleMoreF()")>Show Less</a>
+ <a class="more" role="button" ng-click="toggleMoreF()")>Show Less</a>
   </p>
 </span>
 
