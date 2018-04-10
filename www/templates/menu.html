@@ -33,7 +33,7 @@
             <ion-list>
                 <div ng-repeat="group in groups">
                     <div ng-if="group.items.length != 0">
-                        <ion-item class="item-stable" ng-click="toggleGroup(group)">
+                        <ion-item role="button" class="item-stable" ng-click="toggleGroup(group)">
                             <!--  <ion-item ng-if="group.items.length == 0" class="item-stable" menu-close href="#/app/sidemenu/{{group.url}}"> -->
                             {{group.name}} &nbsp;
                             <div class="item-icon-right">
