@@ -82,7 +82,7 @@ angular.module('starter.controllers', ['ui.router'])
             items: [
                 { item_name: 'Autopsy', url: "anubis-autopsy.html" },
                 { item_name: 'Tobacco Use', url: "anubis-tobacco.html" },
-                { item_name: 'Pregancy', url: "anubis-pregnancy.html" },
+                { item_name: 'Pregnancy', url: "anubis-pregnancy.html" },
                 { item_name: 'Manner of Death', url: "anubis-mannerofdeath.html" }
             ],
             show: false
