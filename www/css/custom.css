@@ -259,3 +259,11 @@ a.more{
 .custom-icon-color {
   color :#F37018;
 }
+
+.covid-title
+ {
+   float: right;
+   font-size: 16px;
+   font-weight: 500;
+   vertical-align: baseline;
+ }
