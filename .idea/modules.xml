@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/anubis.iml" filepath="$PROJECT_DIR$/.idea/anubis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anubis_ionic_v2.iml" filepath="$PROJECT_DIR$/anubis_ionic_v2.iml" group="anubis_ionic_v2" />
     </modules>
   </component>
 </project>

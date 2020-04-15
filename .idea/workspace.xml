@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4bd3b606-2878-4a1d-8e49-2c303aa4688c" name="Default" comment="">
+    <list default="true" id="9503c239-4cb5-433d-922a-a459c0a11e91" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.bowerrc" beforeDir="false" afterPath="$PROJECT_DIR$/.bowerrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/anubis.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bower.json" beforeDir="false" afterPath="$PROJECT_DIR$/bower.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooks/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/hooks/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooks/after_prepare/010_add_platform_class.js" beforeDir="false" afterPath="$PROJECT_DIR$/hooks/after_prepare/010_add_platform_class.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ionic.config.json" beforeDir="false" afterPath="$PROJECT_DIR$/ionic.config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/resources/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/android/icon/drawable-hdpi-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/android/icon/drawable-hdpi-icon.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/android/icon/drawable-ldpi-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/android/icon/drawable-ldpi-icon.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/android/icon/drawable-mdpi-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/android/icon/drawable-mdpi-icon.png" afterDir="false" />
@@ -24,10 +35,30 @@
       <change beforePath="$PROJECT_DIR$/resources/android/splash/drawable-port-xhdpi-screen.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/android/splash/drawable-port-xhdpi-screen.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/android/splash/drawable-port-xxhdpi-screen.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/android/splash/drawable-port-xxhdpi-screen.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/android/splash/drawable-port-xxxhdpi-screen.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/android/splash/drawable-port-xxxhdpi-screen.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/icon.png.md5" beforeDir="false" afterPath="$PROJECT_DIR$/resources/icon.png.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/icon_v2.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/icon_v2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/ios/icon/apple-touch-icon-114x114.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/ios/icon/apple-touch-icon-114x114.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/ios/icon/apple-touch-icon-144x144.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/ios/icon/apple-touch-icon-144x144.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/ios/icon/apple-touch-icon-152x152.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/ios/icon/apple-touch-icon-152x152.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/ios/icon/apple-touch-icon-180x180.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/ios/icon/apple-touch-icon-180x180.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/ios/icon/apple-touch-icon-57x57_old.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/ios/icon/apple-touch-icon-57x57_old.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/ios/icon/apple-touch-icon-precomposed.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/ios/icon/apple-touch-icon-precomposed.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/ios/icon/apple-touch-icon_old.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/ios/icon/apple-touch-icon_old.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon-1024.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-1024.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon-108@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-108@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon-20.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-20.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon-20@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-20@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon-20@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-20@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon-24@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-24@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon-27.5@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-27.5@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon-29.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-29.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon-29@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-29@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon-29@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-29@3x.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon-40.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-40.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon-40@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-40@2x.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon-40@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-40@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon-44@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-44@2x.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon-50.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-50.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon-50@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-50@2x.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon-60.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-60.png" afterDir="false" />
@@ -38,14 +69,24 @@
       <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon-76.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-76.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon-76@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-76@2x.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon-83.5@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-83.5@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon-86@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-86@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon-98@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-98@2x.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon-small.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-small.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon-small@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-small@2x.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon-small@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-small@3x.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/ios/icon/icon.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/ios/icon/icon@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/ios/icon/old_apple-touch-icon-72x72.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/ios/icon/old_apple-touch-icon-72x72.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/ios/icon/old_apple-touch-icon-76x76.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/ios/icon/old_apple-touch-icon-76x76.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/ios/splash/Default-1792h~iphone.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/ios/splash/Default-1792h~iphone.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/ios/splash/Default-2436h.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/ios/splash/Default-2436h.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/ios/splash/Default-2688h~iphone.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/ios/splash/Default-2688h~iphone.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/ios/splash/Default-568h@2x~iphone.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/ios/splash/Default-568h@2x~iphone.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/ios/splash/Default-667h.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/ios/splash/Default-667h.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/ios/splash/Default-736h.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/ios/splash/Default-736h.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/ios/splash/Default-Landscape-1792h~iphone.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/ios/splash/Default-Landscape-1792h~iphone.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/ios/splash/Default-Landscape-2436h.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/ios/splash/Default-Landscape-2436h.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/ios/splash/Default-Landscape-2688h~iphone.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/ios/splash/Default-Landscape-2688h~iphone.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/ios/splash/Default-Landscape-736h.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/ios/splash/Default-Landscape-736h.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/ios/splash/Default-Landscape@2x~ipad.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/ios/splash/Default-Landscape@2x~ipad.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/ios/splash/Default-Landscape@~ipadpro.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/ios/splash/Default-Landscape@~ipadpro.png" afterDir="false" />
@@ -56,12 +97,200 @@
       <change beforePath="$PROJECT_DIR$/resources/ios/splash/Default@2x~iphone.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/ios/splash/Default@2x~iphone.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/ios/splash/Default@2x~universal~anyany.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/ios/splash/Default@2x~universal~anyany.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/ios/splash/Default~iphone.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/ios/splash/Default~iphone.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/splash.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/splash.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/splash.png.md5" beforeDir="false" afterPath="$PROJECT_DIR$/resources/splash.png.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/splash_old.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/splash_old.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/splash_old2.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/splash_old2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/ionic.app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/ionic.app.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/www/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/android-chrome-144x144.png" beforeDir="false" afterPath="$PROJECT_DIR$/www/android-chrome-144x144.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/android-chrome-192x192.png" beforeDir="false" afterPath="$PROJECT_DIR$/www/android-chrome-192x192.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/android-chrome-36x36.png" beforeDir="false" afterPath="$PROJECT_DIR$/www/android-chrome-36x36.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/android-chrome-48x48.png" beforeDir="false" afterPath="$PROJECT_DIR$/www/android-chrome-48x48.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/android-chrome-72x72.png" beforeDir="false" afterPath="$PROJECT_DIR$/www/android-chrome-72x72.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/android-chrome-96x96.png" beforeDir="false" afterPath="$PROJECT_DIR$/www/android-chrome-96x96.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/apple-touch-icon-114x114.png" beforeDir="false" afterPath="$PROJECT_DIR$/www/apple-touch-icon-114x114.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/apple-touch-icon-120x120.png" beforeDir="false" afterPath="$PROJECT_DIR$/www/apple-touch-icon-120x120.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/apple-touch-icon-144x144.png" beforeDir="false" afterPath="$PROJECT_DIR$/www/apple-touch-icon-144x144.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/apple-touch-icon-152x152.png" beforeDir="false" afterPath="$PROJECT_DIR$/www/apple-touch-icon-152x152.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/apple-touch-icon-180x180.png" beforeDir="false" afterPath="$PROJECT_DIR$/www/apple-touch-icon-180x180.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/apple-touch-icon-57x57.png" beforeDir="false" afterPath="$PROJECT_DIR$/www/apple-touch-icon-57x57.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/apple-touch-icon-60x60.png" beforeDir="false" afterPath="$PROJECT_DIR$/www/apple-touch-icon-60x60.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/apple-touch-icon-72x72.png" beforeDir="false" afterPath="$PROJECT_DIR$/www/apple-touch-icon-72x72.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/apple-touch-icon-76x76.png" beforeDir="false" afterPath="$PROJECT_DIR$/www/apple-touch-icon-76x76.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/apple-touch-icon-precomposed.png" beforeDir="false" afterPath="$PROJECT_DIR$/www/apple-touch-icon-precomposed.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/apple-touch-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/www/apple-touch-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/browserconfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/www/browserconfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/www/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/favicon-16x16.png" beforeDir="false" afterPath="$PROJECT_DIR$/www/favicon-16x16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/favicon-32x32.png" beforeDir="false" afterPath="$PROJECT_DIR$/www/favicon-32x32.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/favicon-96x96.png" beforeDir="false" afterPath="$PROJECT_DIR$/www/favicon-96x96.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/www/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/images/Anubis_Hez_v1.png" beforeDir="false" afterPath="$PROJECT_DIR$/www/images/Anubis_Hez_v1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/images/Anubis_Hez_v2.png" beforeDir="false" afterPath="$PROJECT_DIR$/www/images/Anubis_Hez_v2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/images/Autopsy.png" beforeDir="false" afterPath="$PROJECT_DIR$/www/images/Autopsy.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/images/CauseofDeathSection.png" beforeDir="false" afterPath="$PROJECT_DIR$/www/images/CauseofDeathSection.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/images/Example1.png" beforeDir="false" afterPath="$PROJECT_DIR$/www/images/Example1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/images/Example10.png" beforeDir="false" afterPath="$PROJECT_DIR$/www/images/Example10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/images/Example11a.png" beforeDir="false" afterPath="$PROJECT_DIR$/www/images/Example11a.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/images/Example11b.png" beforeDir="false" afterPath="$PROJECT_DIR$/www/images/Example11b.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/images/Example12.png" beforeDir="false" afterPath="$PROJECT_DIR$/www/images/Example12.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/images/Example13.png" beforeDir="false" afterPath="$PROJECT_DIR$/www/images/Example13.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/images/Example2.png" beforeDir="false" afterPath="$PROJECT_DIR$/www/images/Example2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/images/Example3.png" beforeDir="false" afterPath="$PROJECT_DIR$/www/images/Example3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/images/Example4.png" beforeDir="false" afterPath="$PROJECT_DIR$/www/images/Example4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/images/Example5.png" beforeDir="false" afterPath="$PROJECT_DIR$/www/images/Example5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/images/Example6.png" beforeDir="false" afterPath="$PROJECT_DIR$/www/images/Example6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/images/Example7.png" beforeDir="false" afterPath="$PROJECT_DIR$/www/images/Example7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/images/Example8.png" beforeDir="false" afterPath="$PROJECT_DIR$/www/images/Example8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/images/Example9.png" beforeDir="false" afterPath="$PROJECT_DIR$/www/images/Example9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/images/MOD.png" beforeDir="false" afterPath="$PROJECT_DIR$/www/images/MOD.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/images/Part1.png" beforeDir="false" afterPath="$PROJECT_DIR$/www/images/Part1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/images/Part2.png" beforeDir="false" afterPath="$PROJECT_DIR$/www/images/Part2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/images/Pregnancy.png" beforeDir="false" afterPath="$PROJECT_DIR$/www/images/Pregnancy.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/images/Tobacco.png" beforeDir="false" afterPath="$PROJECT_DIR$/www/images/Tobacco.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/images/homepage-pic.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/www/images/homepage-pic.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/images/image1.png" beforeDir="false" afterPath="$PROJECT_DIR$/www/images/image1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/images/ionic.png" beforeDir="false" afterPath="$PROJECT_DIR$/www/images/ionic.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/images/splash-bottom.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/www/images/splash-bottom.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/images/splash.svg" beforeDir="false" afterPath="$PROJECT_DIR$/www/images/splash.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/ionic.png" beforeDir="false" afterPath="$PROJECT_DIR$/www/img/ionic.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/js/controllers.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/js/controllers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/css/ionic.css" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/css/ionic.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/css/ionic.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/css/ionic.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/css/ionicons.css" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/css/ionicons.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/css/ionicons.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/css/ionicons.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/fonts/ionic20fonts/ionicons.eot" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/fonts/ionic20fonts/ionicons.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/fonts/ionic20fonts/ionicons.svg" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/fonts/ionic20fonts/ionicons.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/fonts/ionic20fonts/ionicons.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/fonts/ionic20fonts/ionicons.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/fonts/ionic20fonts/ionicons.woff" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/fonts/ionic20fonts/ionicons.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/fonts/ionicons.eot" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/fonts/ionicons.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/fonts/ionicons.svg" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/fonts/ionicons.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/fonts/ionicons.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/fonts/ionicons.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/fonts/ionicons.woff" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/fonts/ionicons.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/js/angular-ui/angular-ui-router.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/js/angular-ui/angular-ui-router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/js/angular-ui/angular-ui-router.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/js/angular-ui/angular-ui-router.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/js/angular/angular-animate.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/js/angular/angular-animate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/js/angular/angular-animate.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/js/angular/angular-animate.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/js/angular/angular-resource.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/js/angular/angular-resource.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/js/angular/angular-resource.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/js/angular/angular-resource.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/js/angular/angular-sanitize.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/js/angular/angular-sanitize.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/js/angular/angular-sanitize.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/js/angular/angular-sanitize.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/js/angular/angular.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/js/angular/angular.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/js/angular/angular.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/js/angular/angular.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/js/ionic-angular.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/js/ionic-angular.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/js/ionic-angular.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/js/ionic-angular.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/js/ionic.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/js/ionic.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/js/ionic.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/js/ionic.bundle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/js/ionic.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/js/ionic.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/js/ionic.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/js/ionic.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/scss/_action-sheet.scss" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_action-sheet.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/scss/_animations.scss" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_animations.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/scss/_backdrop.scss" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_backdrop.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/scss/_badge.scss" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_badge.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/scss/_bar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_bar.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/scss/_button-bar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_button-bar.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/scss/_button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_button.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/scss/_checkbox.scss" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_checkbox.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/scss/_form.scss" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_form.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/scss/_grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_grid.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/scss/_items.scss" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_items.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/scss/_list.scss" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_list.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/scss/_loading.scss" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_loading.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/scss/_menu.scss" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_menu.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/scss/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_mixins.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/scss/_modal.scss" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_modal.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/scss/_platform.scss" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_platform.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/scss/_popover.scss" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_popover.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/scss/_popup.scss" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_popup.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/scss/_progress.scss" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_progress.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/scss/_radio.scss" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_radio.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/scss/_range.scss" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_range.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/scss/_refresher.scss" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_refresher.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/scss/_reset.scss" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_reset.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/scss/_scaffolding.scss" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_scaffolding.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/scss/_select.scss" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_select.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/scss/_slide-box.scss" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_slide-box.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/scss/_slides.scss" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_slides.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/scss/_spinner.scss" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_spinner.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/scss/_tabs.scss" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_tabs.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/scss/_toggle.scss" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_toggle.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/scss/_transitions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_transitions.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/scss/_type.scss" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_type.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/scss/_util.scss" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_util.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/scss/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/scss/ionic.scss" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/ionic.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/scss/ionicons/_ionicons-font.scss" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/ionicons/_ionicons-font.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/scss/ionicons/_ionicons-icons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/ionicons/_ionicons-icons.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/scss/ionicons/_ionicons-variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/ionicons/_ionicons-variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/scss/ionicons/ionicons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/ionicons/ionicons.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/lib/ionic/version.json" beforeDir="false" afterPath="$PROJECT_DIR$/www/lib/ionic/version.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/www/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/mstile-144x144.png" beforeDir="false" afterPath="$PROJECT_DIR$/www/mstile-144x144.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/mstile-150x150.png" beforeDir="false" afterPath="$PROJECT_DIR$/www/mstile-150x150.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/mstile-310x150.png" beforeDir="false" afterPath="$PROJECT_DIR$/www/mstile-310x150.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/mstile-310x310.png" beforeDir="false" afterPath="$PROJECT_DIR$/www/mstile-310x310.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/mstile-70x70.png" beforeDir="false" afterPath="$PROJECT_DIR$/www/mstile-70x70.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/safari-pinned-tab.svg" beforeDir="false" afterPath="$PROJECT_DIR$/www/safari-pinned-tab.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/service-worker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/templates/anubis-faqs.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/templates/anubis-faqs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/templates/anubis-splash.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/templates/anubis-splash.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/templates/browse.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/templates/browse.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/templates/dFive.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/templates/dFive.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/templates/dFour.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/templates/dFour.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/templates/dOne.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/templates/dOne.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/templates/dSix.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/templates/dSix.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/templates/dThree.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/templates/dThree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/templates/dTwo.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/templates/dTwo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/templates/general.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/templates/general.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/templates/menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/templates/menu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/templates/playlist.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/templates/playlist.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/templates/playlists.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/templates/playlists.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/templates/popover-menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/templates/popover-menu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/templates/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/templates/search.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/templates/sidemenu/anubis-aboutus.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/templates/sidemenu/anubis-aboutus.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/templates/sidemenu/anubis-autopsy.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/templates/sidemenu/anubis-autopsy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/templates/sidemenu/anubis-causeofdeath.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/templates/sidemenu/anubis-causeofdeath.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/templates/sidemenu/anubis-certifyingdeath.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/templates/sidemenu/anubis-certifyingdeath.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch1.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch10.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch11.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch12.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch13.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch13.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch2.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch3.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch4.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch5.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch6.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch7.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch8.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch9.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/templates/sidemenu/anubis-generalinstructions.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/templates/sidemenu/anubis-generalinstructions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/templates/sidemenu/anubis-guidelines.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/templates/sidemenu/anubis-guidelines.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/templates/sidemenu/anubis-introduction.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/templates/sidemenu/anubis-introduction.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/templates/sidemenu/anubis-mannerofdeath.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/templates/sidemenu/anubis-mannerofdeath.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/templates/sidemenu/anubis-medicalcertification.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/templates/sidemenu/anubis-medicalcertification.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/templates/sidemenu/anubis-part1.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/templates/sidemenu/anubis-part1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/templates/sidemenu/anubis-part2.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/templates/sidemenu/anubis-part2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/templates/sidemenu/anubis-pregnancy.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/templates/sidemenu/anubis-pregnancy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/templates/sidemenu/anubis-problems-advancedage.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/templates/sidemenu/anubis-problems-advancedage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/templates/sidemenu/anubis-problems-complexsituations.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/templates/sidemenu/anubis-problems-complexsituations.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/templates/sidemenu/anubis-problems-infants.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/templates/sidemenu/anubis-problems-infants.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/templates/sidemenu/anubis-problems-specificity.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/templates/sidemenu/anubis-problems-specificity.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/templates/sidemenu/anubis-problems-uncertainty.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/templates/sidemenu/anubis-problems-uncertainty.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/templates/sidemenu/anubis-problems-unnaturalcauses.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/templates/sidemenu/anubis-problems-unnaturalcauses.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/templates/sidemenu/anubis-pronouncingdeath.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/templates/sidemenu/anubis-pronouncingdeath.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/templates/sidemenu/anubis-tobacco.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/templates/sidemenu/anubis-tobacco.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/templates/sidemenu/disclaimer.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/templates/sidemenu/disclaimer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/templates/sidemenu/image-modal.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/templates/sidemenu/image-modal.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/templates/sidemenu/img-modal-zoom.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/templates/sidemenu/img-modal-zoom.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/templates/sidemenu/privacy-policy.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/templates/sidemenu/privacy-policy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/templates/simple-overlay.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/templates/simple-overlay.html" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/.tmp/" />
-    <ignored path="$PROJECT_DIR$/temp/" />
-    <ignored path="$PROJECT_DIR$/tmp/" />
-    <ignored path=".vs/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,212 +300,44 @@
   <component name="DefaultGradleProjectSettings">
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_XL_API_29" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
   </component>
   <component name="FavoritesManager">
     <favorites_list name="anubis_ionic_v2" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/js/controllers.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5835">
-              <caret line="389" column="38" selection-start-line="389" selection-start-column="38" selection-end-line="389" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch5.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="46" selection-start-line="1" selection-start-column="46" selection-end-line="1" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/templates/menu.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="37" column="4" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch6.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch7.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch8.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch9.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch10.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/templates/dThree.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>MyApp</find>
-      <find>drawer-image</find>
-      <find>popover</find>
-      <find>drawer</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/www/templates/sidemenu/anubis-certifyingdeath.html" />
-        <option value="$PROJECT_DIR$/www/templates/dFour.html" />
-        <option value="$PROJECT_DIR$/www/templates/popover-menu.html" />
-        <option value="$PROJECT_DIR$/www/js/app.js" />
-        <option value="$PROJECT_DIR$/www/templates/sidemenu/anubis-part1.html" />
-        <option value="$PROJECT_DIR$/www/templates/dFive.html" />
-        <option value="$PROJECT_DIR$/www/css/custom.css" />
-        <option value="$PROJECT_DIR$/www/templates/sidemenu/anubis-mannerofdeath.html" />
-        <option value="$PROJECT_DIR$/www/templates/sidemenu/anubis-generalinstructions.html" />
-        <option value="$PROJECT_DIR$/www/templates/sidemenu/anubis-medicalcertification.html" />
-        <option value="$PROJECT_DIR$/www/templates/sidemenu/anubis-pregnancy.html" />
-        <option value="$PROJECT_DIR$/www/templates/sidemenu/anubis-problems-infants.html" />
-        <option value="$PROJECT_DIR$/www/templates/sidemenu/anubis-problems-specificity.html" />
-        <option value="$PROJECT_DIR$/www/templates/sidemenu/anubis-problems-unnaturalcauses.html" />
-        <option value="$PROJECT_DIR$/www/templates/sidemenu/anubis-pronouncingdeath.html" />
-        <option value="$PROJECT_DIR$/www/js/controllers.js" />
-        <option value="$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch5.html" />
-        <option value="$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch6.html" />
-        <option value="$PROJECT_DIR$/config.xml" />
-        <option value="$PROJECT_DIR$/www/templates/menu.html" />
-      </list>
-    </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <gulpfiles>
-      <GulpfileState>
-        <gulpfile-path>$PROJECT_DIR$/gulpfile.js</gulpfile-path>
-      </GulpfileState>
-    </gulpfiles>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectConfigurationFiles">
     <option name="files">
       <list>
-        <option value="$PROJECT_DIR$/.idea/codeStyles/Project.xml" />
+        <option value="$PROJECT_DIR$/.idea/runConfigurations.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
-  <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="anubis_ionic_v2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="anubis_ionic_v2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="anubis_ionic_v2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="anubis_ionic_v2" type="462c0819:PsiDirectoryNode" />
-              <item name="platforms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="anubis_ionic_v2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="anubis_ionic_v2" type="462c0819:PsiDirectoryNode" />
-              <item name="www" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="anubis_ionic_v2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="anubis_ionic_v2" type="462c0819:PsiDirectoryNode" />
-              <item name="www" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="anubis_ionic_v2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="anubis_ionic_v2" type="462c0819:PsiDirectoryNode" />
-              <item name="www" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
-  </component>
+  <component name="ProjectId" id="1aXRnAXashphAEWrVJCg79dbsCp" />
   <component name="PropertiesComponent">
-    <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="editor.config.ad.shown" value="true" />
+    <property name="AnalyzeApkAction.lastApkPath" value="$PROJECT_DIR$/platforms/android/app/build/outputs/apk/debug/app-debug.apk" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../Library/Android/sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="node.js.detected.package.prettier" value="true" />
-    <property name="node.js.path.for.package.prettier" value="project" />
-    <property name="node.js.selected.package.prettier" value="" />
-    <property name="nodejs_interpreter_path" value="node" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\nguyetr\Documents\code\anubis\www\images" />
-      <recent name="C:\Users\nguyetr\Documents\code\anubis\resources\ios\icon" />
-    </key>
+    <property name="not.eligible.for.single.variant.sync" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -290,182 +351,61 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="GradleRunConfiguration" factoryName="Gradle" nameIsGenerated="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4bd3b606-2878-4a1d-8e49-2c303aa4688c" name="Default" comment="" />
-      <created>1507834893298</created>
+      <changelist id="9503c239-4cb5-433d-922a-a459c0a11e91" name="Default Changelist" comment="" />
+      <created>1586880116252</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1507834893298</updated>
-      <workItem from="1507834897100" duration="1646000" />
-      <workItem from="1507841938695" duration="23780000" />
-      <workItem from="1508354740107" duration="20076000" />
-      <workItem from="1510871098073" duration="1973000" />
-      <workItem from="1523041945224" duration="2291000" />
+      <updated>1586880116252</updated>
     </task>
-    <task id="LOCAL-00001" summary="add new icons">
-      <created>1507898918686</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1507898918686</updated>
-    </task>
-    <task id="LOCAL-00002" summary="add missing images">
-      <created>1507914539689</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1507914539689</updated>
-    </task>
-    <task id="LOCAL-00003" summary="update text;">
-      <created>1507915363417</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1507915363417</updated>
-    </task>
-    <task id="LOCAL-00004" summary="add italic tags">
-      <created>1507915583055</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1507915583055</updated>
-    </task>
-    <task id="LOCAL-00005" summary="update text; add back button; remove href to prevent navigation">
-      <created>1507925697036</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1507925697036</updated>
-    </task>
-    <task id="LOCAL-00006" summary="use new drawer image;  close popup when user clicked on example link;">
-      <created>1508353151718</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1508353151718</updated>
-    </task>
-    <task id="LOCAL-00007" summary="use new drawer image;  close popup when user clicked on example link;">
-      <created>1508355357520</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1508355357520</updated>
-    </task>
-    <task id="LOCAL-00008" summary="use new drawer image; adjusted for color match">
-      <created>1508357593026</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1508357593026</updated>
-    </task>
-    <task id="LOCAL-00009" summary="use new drawer image; adjusted for color match">
-      <created>1508435717691</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1508435717691</updated>
-    </task>
-    <task id="LOCAL-00010" summary="update image's name in code to match with the actual file name">
-      <created>1508528235621</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1508528235621</updated>
-    </task>
-    <task id="LOCAL-00011" summary="push to versioin v0.1.6">
-      <created>1508528405970</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1508528405970</updated>
-    </task>
-    <task id="LOCAL-00012" summary="push to versioin v0.1.7; In this release:  update texts and typos.  moved Examples down to the bottom;  Renamed app to &quot;Cause of Death&quot;">
-      <created>1510871980695</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1510871980695</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Bug Fixes">
-      <created>1511203110340</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1511203110340</updated>
-    </task>
-    <option name="localTasksCounter" value="14" />
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49766000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.33476394" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Gulp" order="2" side_tool="true" />
-      <window_info id="Favorites" order="3" sideWeight="0.5007587" side_tool="true" visible="true" weight="0.3297568" />
-      <window_info id="Image Layers" order="4" />
-      <window_info id="Designer" order="5" />
-      <window_info id="Resources Explorer" order="6" sideWeight="0.49924126" weight="0.3297568" />
-      <window_info id="Capture Tool" order="7" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32977587" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.2060241" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32977587" />
-      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
-      <window_info anchor="right" id="Assistant" weight="0.44778255" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="right" id="Palette&#9;" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-    </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info id="Structure" order="1" weight="0.25" />
-      <window_info id="Gulp" order="2" side_tool="true" />
-      <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32977587" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout-to-restore>
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="Vcs.Log.History.Properties">
-    <option name="COLUMN_ORDER">
-      <list>
-        <option value="0" />
-        <option value="2" />
-        <option value="3" />
-        <option value="1" />
-      </list>
-    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -473,20 +413,7 @@
         <entry key="MAIN">
           <value>
             <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
+              <option name="COLUMN_ORDER" />
             </State>
           </value>
         </entry>
@@ -506,230 +433,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="add new icons" />
-    <MESSAGE value="add missing images" />
-    <MESSAGE value="update text;" />
-    <MESSAGE value="add italic tags" />
-    <MESSAGE value="update text; add back button; remove href to prevent navigation" />
-    <MESSAGE value="use new drawer image;  close popup when user clicked on example link;" />
-    <MESSAGE value="use new drawer image; adjusted for color match" />
-    <MESSAGE value="update image's name in code to match with the actual file name" />
-    <MESSAGE value="push to versioin v0.1.6" />
-    <MESSAGE value="push to versioin v0.1.7; In this release:  update texts and typos.  moved Examples down to the bottom;  Renamed app to &quot;Cause of Death&quot;" />
-    <MESSAGE value="Bug Fixes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bug Fixes" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/resources/android/splash/drawable-land-hdpi-screen.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/icon.png.md5">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/templates/sidemenu/anubis-certifyingdeath.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="37" column="11" lean-forward="true" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/templates/popover-menu.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="46" column="33" lean-forward="true" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/browserconfig.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/templates/simple-overlay.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/images/drawer-image.jpg" />
-    <entry file="file://$PROJECT_DIR$/www/images/drawer-image1_new.jpg" />
-    <entry file="file://$PROJECT_DIR$/www/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1938">
-          <caret line="114" selection-start-line="114" selection-end-line="114" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/images/drawer-image1_bad.jpg" />
-    <entry file="file://$PROJECT_DIR$/www/images/drawer-image2.jpg" />
-    <entry file="file://$PROJECT_DIR$/www/images/drawer-image1.jpg" />
-    <entry file="file://$PROJECT_DIR$/www/images/drawer-image2.png" />
-    <entry file="file://$PROJECT_DIR$/www/images/Anubis_Hez_ttn.png" />
-    <entry file="file://$PROJECT_DIR$/www/images/Anubis_Hez.png" />
-    <entry file="file://$PROJECT_DIR$/hooks/after_prepare/010_add_platform_class.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/templates/sidemenu/anubis-aboutus.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hooks/README.md">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/images/Anubis_Hez_v2.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/images/Autopsy.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/images/Part2.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/images/Part1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/images/image1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/css/custom.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4403">
-          <caret line="259" column="16" selection-start-line="259" selection-start-column="16" selection-end-line="259" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/templates/sidemenu/anubis-mannerofdeath.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/templates/sidemenu/anubis-generalinstructions.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/templates/sidemenu/anubis-medicalcertification.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/templates/sidemenu/anubis-pregnancy.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/templates/sidemenu/anubis-part2.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/templates/sidemenu/anubis-part1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1615">
-          <caret line="95" lean-forward="true" selection-start-line="95" selection-end-line="95" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/templates/sidemenu/anubis-problems-infants.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/templates/sidemenu/anubis-problems-specificity.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/templates/sidemenu/anubis-problems-unnaturalcauses.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/templates/sidemenu/anubis-pronouncingdeath.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/templates/sidemenu/anubis-welcome.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="154" selection-start-line="16" selection-start-column="91" selection-end-line="16" selection-end-column="154" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/templates/dFive.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/templates/dFour.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/templates/dOne.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/templates/dSix.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch5.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="46" selection-start-line="1" selection-start-column="46" selection-end-line="1" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch7.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch8.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch9.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch10.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/templates/dThree.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/controllers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5835">
-          <caret line="389" column="38" selection-start-line="389" selection-start-column="38" selection-end-line="389" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/templates/menu.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="37" column="4" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/templates/sidemenu/anubis-examples-ch6.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
